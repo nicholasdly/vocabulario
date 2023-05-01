@@ -1,3 +1,3 @@
 # vocabulario
 
-A simple flashcard game to help improve your Spanish vocabulary. 🇪🇸
+A simple terminal game to help improve your Spanish vocabulary and conjugation. 🇪🇸
